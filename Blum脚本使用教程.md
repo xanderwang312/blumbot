@@ -306,7 +306,8 @@ const SCRIPT_VERSION="4.0";var _0xodm="jsjiami.com.v7";const _0x38aed6=_0x41f6;f
 ### 使用脚本
 
 > 使用脚本前必须 [打开Telegram桌面端 `Enable Webview Inspecting`](#打开Telegram桌面端 `Enable Webview Inspecting`)，
-> 如果使用网页版本，无法打开Blum，请安[浏览器插件](https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe)重新刷新页面进入Blum程序就可以了。
+> 如果使用网页版本，无法打开Blum，请安装 <a href="[https://example.com](https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe)" target="_blank">浏览器插件</a>
+重新刷新页面进入Blum程序就可以了。
 
 - 打开Blum Bot
 
