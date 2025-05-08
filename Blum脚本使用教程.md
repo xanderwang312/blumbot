@@ -1,6 +1,6 @@
 ## Blum脚本使用教程
 
-### 打开Telegram桌面端 `Enable Webview Inspecting`
+### 打开Telegram桌面端 `Enable Webview Inspecting`，网页版本跳过此步骤的配置，直接按 [使用脚本](#使用脚本) 步骤操作
 
 - 点击左上角三条杠
 
